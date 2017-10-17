@@ -6,3 +6,16 @@ A collection of React.js resources
 [Rearchitecting Airbnbs Frontend](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
 
 [Fundamental react js concepts](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
+
+
+React
+
+[learning-react-getting-started-and-concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+[react-fundamentals](https://tylermcginnis.com/courses/react-fundamentals/)
+[reactforbeginners](https://reactforbeginners.com/)
+[react-101](https://www.codecademy.com/learn/react-101)
+
+
+Redux
+https://www.udemy.com/react-redux/learn/v4/overview
+https://www.udemy.com/react-redux-tutorial/learn/v4/overview
