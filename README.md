@@ -27,3 +27,7 @@ https://www.udemy.com/react-redux/learn/v4/overview
 
 https://www.udemy.com/react-redux-tutorial/learn/v4/overview
 
+React with Express
+
+[http://ericsowell.com/blog/2017/5/16/create-react-app-and-express](http://ericsowell.com/blog/2017/5/16/create-react-app-and-express)
+
