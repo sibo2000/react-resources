@@ -14,6 +14,7 @@ React
 [react-fundamentals](https://tylermcginnis.com/courses/react-fundamentals/)
 [reactforbeginners](https://reactforbeginners.com/)
 [react-101](https://www.codecademy.com/learn/react-101)
+[learn-react-fundamentals-and-advanced-patterns](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
 
 
 Redux
